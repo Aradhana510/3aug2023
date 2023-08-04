@@ -1,0 +1,14 @@
+C:\Users\a\Desktop\Assesmentsdaily\Assessment22\bin\Debug\net8.0\Assessment22.exe
+C:\Users\a\Desktop\Assesmentsdaily\Assessment22\bin\Debug\net8.0\Assessment22.deps.json
+C:\Users\a\Desktop\Assesmentsdaily\Assessment22\bin\Debug\net8.0\Assessment22.runtimeconfig.json
+C:\Users\a\Desktop\Assesmentsdaily\Assessment22\bin\Debug\net8.0\Assessment22.dll
+C:\Users\a\Desktop\Assesmentsdaily\Assessment22\bin\Debug\net8.0\Assessment22.pdb
+C:\Users\a\Desktop\Assesmentsdaily\Assessment22\obj\Debug\net8.0\Assessment22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\Assesmentsdaily\Assessment22\obj\Debug\net8.0\Assessment22.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\Assesmentsdaily\Assessment22\obj\Debug\net8.0\Assessment22.AssemblyInfo.cs
+C:\Users\a\Desktop\Assesmentsdaily\Assessment22\obj\Debug\net8.0\Assessment22.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Assesmentsdaily\Assessment22\obj\Debug\net8.0\Assessment22.dll
+C:\Users\a\Desktop\Assesmentsdaily\Assessment22\obj\Debug\net8.0\refint\Assessment22.dll
+C:\Users\a\Desktop\Assesmentsdaily\Assessment22\obj\Debug\net8.0\Assessment22.pdb
+C:\Users\a\Desktop\Assesmentsdaily\Assessment22\obj\Debug\net8.0\Assessment22.genruntimeconfig.cache
+C:\Users\a\Desktop\Assesmentsdaily\Assessment22\obj\Debug\net8.0\ref\Assessment22.dll
